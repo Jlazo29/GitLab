@@ -6,9 +6,6 @@
     <JAVADOC>
       <root url="file://$USER_HOME$/Projects/GWT/gwt-2.7.0/doc/javadoc" />
     </JAVADOC>
-    <NATIVE>
-      <root url="file://$USER_HOME$/Projects/GWT/gwt-2.7.0" />
-    </NATIVE>
     <SOURCES>
       <root url="file://$USER_HOME$/Projects/GWT/gwt-2.7.0/samples/DynaTable/src" />
       <root url="file://$USER_HOME$/Projects/GWT/gwt-2.7.0/samples/DynaTableRf/src/main/java" />
